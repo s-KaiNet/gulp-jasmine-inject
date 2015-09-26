@@ -8,9 +8,9 @@ var phantomjs = require('phantomjs'),
 	fs = require("fs"),
 	uuid = require('uuid');
 
-var PLUGIN_NAME = 'gulp-spjasmine';
+var PLUGIN_NAME = 'gulp-jasmine-inject';
 
-function gulpspjasmine(options) {
+function gulpJasmineInject(options) {
 	if (!options) {
 		throw new PluginError(PLUGIN_NAME, 'Missing options');
 	}
@@ -97,4 +97,4 @@ function parsePath(filePath) {
 	};
 }
 
-module.exports = gulpspjasmine;
+module.exports = gulpJasmineInject;

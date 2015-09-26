@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "description": "",
+  "private": "true",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0",
+    "util": "^0.10.3"
+  }
+}
