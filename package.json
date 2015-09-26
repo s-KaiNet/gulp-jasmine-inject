@@ -1,7 +1,7 @@
 {
   "name": "gulp-jasmine-inject",
   "description": "Gulp plugin for injecting and runing jasmine tests in any working web site.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "s-KaiNet",
     "url": "https://github.com/s-KaiNet"
@@ -22,7 +22,6 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.6",
-    "install": "^0.1.8",
     "jasmine-core": "^2.3.4",
     "jasmine-reporters": "^2.0.7",
     "phantomjs": "^1.9.18",
