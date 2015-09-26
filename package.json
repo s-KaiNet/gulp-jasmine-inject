@@ -1,0 +1,35 @@
+{
+  "name": "gulp-spjasmine",
+  "description": "Gulp plugin for running tests on SharePoint client javscript with Jasmine test runner.",
+  "version": "1.0.0",
+  "author": {
+    "name": "s-KaiNet",
+    "url": "https://github.com/s-KaiNet"
+  },
+  "bugs": {
+    "url": "https://github.com/s-KaiNet/gulp-spjasmine/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/s-KaiNet/gulp-spjasmine.git"
+  },
+  "main": "./index.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "dependencies": {
+    "colors": "^1.1.2",
+    "gulp-util": "^3.0.6",
+    "install": "^0.1.8",
+    "jasmine-core": "^2.3.4",
+    "jasmine-reporters": "^2.0.7",
+    "npm": "^3.3.4",
+    "phantomjs": "^1.9.18",
+    "through2": "^2.0.0",
+    "url": "^0.11.0",
+    "uuid": "^2.0.1"
+  }
+}
