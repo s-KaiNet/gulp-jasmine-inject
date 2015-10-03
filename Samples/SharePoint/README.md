@@ -32,4 +32,4 @@ Parameters:
 - `additionalJS` - optional, javascript files, which will be included into the page. This can be your library under test
 - `verbose` - show additional output in console  
 
-For even more detailed real world sample refer to [SPListRepostiory.js](https://github.com/s-KaiNet/SPListRepository.js) project and discover `gulpfile.js` (`tests` task) along with spec file.
+For even more detailed real world sample refer to [SPListRepostiory.js](https://github.com/s-KaiNet/SPListRepository.js) project and explore `gulpfile.js` (`tests` task) along with spec file.
