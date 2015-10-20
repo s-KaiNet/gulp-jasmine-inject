@@ -1,7 +1,7 @@
 {
   "name": "gulp-jasmine-inject",
   "description": "Gulp plugin for injecting and runing jasmine tests in any working web site.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "s-KaiNet",
     "url": "https://github.com/s-KaiNet"
