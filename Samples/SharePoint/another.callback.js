@@ -6,6 +6,7 @@ module.exports = function(page, options, next){
 		   return el[0].getBoundingClientRect();
 		});
 		page.sendEvent('click', rect.left + rect.width / 2, rect.top + rect.height / 2);
+		page.render("screen.png");
 		next();
 	});
 }
